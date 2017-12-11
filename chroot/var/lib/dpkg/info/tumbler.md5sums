@@ -1,0 +1,14 @@
+2db7a38f08a77e828d187db72791edce  usr/lib/i386-linux-gnu/tumbler-1/plugins/cache/tumbler-xdg-cache.so
+bfbf1bdf01deb2fbafbfd2a67a31f781  usr/lib/i386-linux-gnu/tumbler-1/plugins/tumbler-font-thumbnailer.so
+a6077e6b2a989bd1fc93ddae35833172  usr/lib/i386-linux-gnu/tumbler-1/plugins/tumbler-gst-thumbnailer.so
+751057c3f23295a8abfe20d7dc16cca5  usr/lib/i386-linux-gnu/tumbler-1/plugins/tumbler-jpeg-thumbnailer.so
+45b81ef8dba709167d4a03160ee5dbdf  usr/lib/i386-linux-gnu/tumbler-1/plugins/tumbler-pixbuf-thumbnailer.so
+84b23ad273af2cd13bca5cb6005c6375  usr/lib/i386-linux-gnu/tumbler-1/plugins/tumbler-poppler-thumbnailer.so
+579e59eac428ed14c26c931d7d009998  usr/lib/i386-linux-gnu/tumbler-1/tumblerd
+663e840533a4373ae590fb9c7986f696  usr/share/dbus-1/services/org.xfce.Tumbler.Cache1.service
+16f816541432068c10c5b046e16757ab  usr/share/dbus-1/services/org.xfce.Tumbler.Manager1.service
+99d07dfbc73611992eba144456493ba6  usr/share/dbus-1/services/org.xfce.Tumbler.Thumbnailer1.service
+f1f4c135fb82e26f583697a0ad30ed70  usr/share/doc/tumbler/changelog.Debian.gz
+dd2f7f1c76cf592f1982e46e389bc876  usr/share/doc/tumbler/changelog.Debian.i386.gz
+a7a78b745989a1eec83efc868b54708f  usr/share/doc/tumbler/changelog.gz
+1e08cf8330e68e0404b1b7f907446d03  usr/share/doc/tumbler/copyright

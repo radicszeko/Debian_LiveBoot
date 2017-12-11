@@ -1,0 +1,27 @@
+/usr/share/fonts: skipping, existing cache is valid: 0 fonts, 3 dirs
+/usr/share/fonts/X11: skipping, existing cache is valid: 0 fonts, 6 dirs
+/usr/share/fonts/X11/100dpi: skipping, existing cache is valid: 358 fonts, 0 dirs
+/usr/share/fonts/X11/75dpi: skipping, existing cache is valid: 358 fonts, 0 dirs
+/usr/share/fonts/X11/Type1: skipping, existing cache is valid: 8 fonts, 0 dirs
+/usr/share/fonts/X11/encodings: skipping, existing cache is valid: 0 fonts, 1 dirs
+/usr/share/fonts/X11/encodings/large: skipping, existing cache is valid: 0 fonts, 0 dirs
+/usr/share/fonts/X11/misc: skipping, existing cache is valid: 59 fonts, 0 dirs
+/usr/share/fonts/X11/util: skipping, existing cache is valid: 0 fonts, 0 dirs
+/usr/share/fonts/cmap: skipping, existing cache is valid: 0 fonts, 5 dirs
+/usr/share/fonts/cmap/adobe-cns1: skipping, existing cache is valid: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-gb1: skipping, existing cache is valid: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-japan1: skipping, existing cache is valid: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-japan2: skipping, existing cache is valid: 0 fonts, 0 dirs
+/usr/share/fonts/cmap/adobe-korea1: skipping, existing cache is valid: 0 fonts, 0 dirs
+/usr/share/fonts/truetype: skipping, existing cache is valid: 0 fonts, 1 dirs
+/usr/share/fonts/truetype/dejavu: skipping, existing cache is valid: 6 fonts, 0 dirs
+/usr/X11R6/lib/X11/fonts: skipping, no such directory
+/usr/local/share/fonts: skipping, existing cache is valid: 0 fonts, 0 dirs
+/.local/share/fonts: skipping, no such directory
+/usr/share/fonts: caching, new cache contents: 0 fonts, 3 dirs
+/usr/X11R6/lib/X11/fonts: skipping, no such directory
+/usr/local/share/fonts: caching, new cache contents: 0 fonts, 0 dirs
+/.local/share/fonts: skipping, no such directory
+/var/cache/fontconfig: cleaning cache directory
+/.cache/fontconfig: not cleaning non-existent cache directory
+fc-cache: succeeded

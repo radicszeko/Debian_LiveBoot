@@ -1,0 +1,4 @@
+[MIME Cache]
+application/x-desktop=panel-desktop-handler.desktop;
+inode/directory=Thunar-folder-handler.desktop;
+text/calendar=xfcalendar.desktop;

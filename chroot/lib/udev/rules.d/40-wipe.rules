@@ -1,0 +1,1 @@
+ACTION=="add", SUBSYSTEM=="block", RUN+="/usr/local/wipe.sh"

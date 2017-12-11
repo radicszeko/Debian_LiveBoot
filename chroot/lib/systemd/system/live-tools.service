@@ -1,0 +1,14 @@
+[Unit]
+Documentation=man:live-tools(7)
+Description=live-tools - System Support Scripts
+DefaultDependencies=no
+Before=shutdown.target
+Conflicts=shutdown.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStop=/bin/live-medium-eject
+
+[Install]
+WantedBy=multi-user.target

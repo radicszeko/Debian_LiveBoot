@@ -1,0 +1,12 @@
+173df84b7c23df43b78e4b4430fd7485  lib/systemd/system/uuidd.service
+899cf46868c9ccdbc21489d27ac59bce  lib/systemd/system/uuidd.socket
+0eacbadbf1dde8e08e26a831b592691e  usr/bin/uuidgen
+ee38444e39f7c7fab7addf5870617505  usr/sbin/uuidd
+535cf39716afb4f68a61d2b6e3acf651  usr/share/bash-completion/completions/uuidd
+db19ec33f809d62864f39aa5e0c341d1  usr/share/bash-completion/completions/uuidgen
+de6544c93a84e8786a7e291cebc65b84  usr/share/doc/uuid-runtime/changelog.Debian.gz
+907d26139cb4ee2b0eda15de1ea9661c  usr/share/doc/uuid-runtime/changelog.gz
+bb44d726cc7e859bb8769ae21807f86b  usr/share/doc/uuid-runtime/copyright
+2e0c12533a7f109656dc0618d50e53c8  usr/share/lintian/overrides/uuid-runtime
+f4b801792871ba1a457d0cadb9ad52a3  usr/share/man/man1/uuidgen.1.gz
+008346502f05274c0e2d0c159e93ce87  usr/share/man/man8/uuidd.8.gz

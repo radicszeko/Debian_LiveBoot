@@ -1,0 +1,292 @@
+update-alternatives 2017-12-09 19:40:25: run with --quiet --install /usr/bin/awk awk /usr/bin/mawk 5 --slave /usr/share/man/man1/awk.1.gz awk.1.gz /usr/share/man/man1/mawk.1.gz --slave /usr/bin/nawk nawk /usr/bin/mawk --slave /usr/share/man/man1/nawk.1.gz nawk.1.gz /usr/share/man/man1/mawk.1.gz
+update-alternatives 2017-12-09 19:40:25: link group awk updated to point to /usr/bin/mawk
+update-alternatives 2017-12-09 19:40:37: run with --quiet --install /usr/bin/awk awk /usr/bin/mawk 5 --slave /usr/share/man/man1/awk.1.gz awk.1.gz /usr/share/man/man1/mawk.1.gz --slave /usr/bin/nawk nawk /usr/bin/mawk --slave /usr/share/man/man1/nawk.1.gz nawk.1.gz /usr/share/man/man1/mawk.1.gz
+update-alternatives 2017-12-09 19:40:37: run with --install /usr/sbin/rmt rmt /usr/sbin/rmt-tar 50 --slave /usr/share/man/man8/rmt.8.gz rmt.8.gz /usr/share/man/man8/rmt-tar.8.gz
+update-alternatives 2017-12-09 19:40:37: link group rmt updated to point to /usr/sbin/rmt-tar
+update-alternatives 2017-12-09 19:40:38: run with --install /usr/share/man/man7/builtins.7.gz builtins.7.gz /usr/share/man/man7/bash-builtins.7.gz 10
+update-alternatives 2017-12-09 19:40:38: link group builtins.7.gz updated to point to /usr/share/man/man7/bash-builtins.7.gz
+update-alternatives 2017-12-09 19:40:39: run with --install /usr/bin/pager pager /bin/more 50 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/more.1.gz
+update-alternatives 2017-12-09 19:40:39: link group pager updated to point to /bin/more
+update-alternatives 2017-12-09 19:40:39: run with --install /usr/bin/pager pager /usr/bin/pg 10 --slave /usr/share/man/man1/pager.1.gz pager.1.gz /usr/share/man/man1/pg.1.gz
+update-alternatives 2017-12-09 19:42:33: run with --install /usr/bin/w w /usr/bin/w.procps 50 --slave /usr/share/man/man1/w.1.gz w.1.gz /usr/share/man/man1/w.procps.1.gz
+update-alternatives 2017-12-09 19:42:33: link group w updated to point to /usr/bin/w.procps
+update-alternatives 2017-12-09 19:42:44: run with --install /bin/mt mt /bin/mt-gnu 10 --slave /usr/share/man/man1/mt.1.gz mt.1.gz /usr/share/man/man1/mt-gnu.1.gz
+update-alternatives 2017-12-09 19:42:44: link group mt updated to point to /bin/mt-gnu
+update-alternatives 2017-12-09 19:51:30: run with --install /usr/lib/i386-linux-gnu/libtxc_dxtn.so libtxc-dxtn-i386-linux-gnu /usr/lib/i386-linux-gnu/s2tc/libtxc_dxtn.so 10
+update-alternatives 2017-12-09 19:51:30: link group libtxc-dxtn-i386-linux-gnu updated to point to /usr/lib/i386-linux-gnu/s2tc/libtxc_dxtn.so
+update-alternatives 2017-12-09 19:51:36: run with --install /usr/bin/rename rename /usr/bin/prename 60 --slave /usr/share/man/man1/rename.1.gz rename.1.gz /usr/share/man/man1/prename.1.gz
+update-alternatives 2017-12-09 19:51:36: link group rename updated to point to /usr/bin/prename
+update-alternatives 2017-12-09 19:51:38: run with --install /usr/bin/write write /usr/bin/bsd-write 100 --slave /usr/share/man/man1/write.1.gz write.1.gz /usr/share/man/man1/bsd-write.1.gz
+update-alternatives 2017-12-09 19:51:38: link group write updated to point to /usr/bin/bsd-write
+update-alternatives 2017-12-09 19:51:38: run with --install /usr/bin/from from /usr/bin/bsd-from 10 --slave /usr/share/man/man1/from.1.gz from.1.gz /usr/share/man/man1/bsd-from.1.gz
+update-alternatives 2017-12-09 19:51:38: link group from updated to point to /usr/bin/bsd-from
+update-alternatives 2017-12-09 19:51:48: run with --install /usr/bin/rename rename /usr/bin/file-rename 70 --slave /usr/share/man/man1/rename.1.gz rename.1.gz /usr/share/man/man1/file-rename.1p.gz
+update-alternatives 2017-12-09 19:51:48: link group rename updated to point to /usr/bin/file-rename
+update-alternatives 2017-12-09 19:51:53: run with --quiet --install /lib/cpp cpp /usr/bin/cpp 10
+update-alternatives 2017-12-09 19:51:53: link group cpp updated to point to /usr/bin/cpp
+update-alternatives 2017-12-09 19:52:00: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/xterm 20 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/xterm.1.gz
+update-alternatives 2017-12-09 19:52:00: link group x-terminal-emulator updated to point to /usr/bin/xterm
+update-alternatives 2017-12-09 19:52:00: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/uxterm 20 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/uxterm.1.gz
+update-alternatives 2017-12-09 19:52:00: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/koi8rxterm 20 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/koi8rxterm.1.gz
+update-alternatives 2017-12-09 19:52:00: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/lxterm 30 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/lxterm.1.gz
+update-alternatives 2017-12-09 19:52:00: link group x-terminal-emulator updated to point to /usr/bin/lxterm
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/softwaves-theme 50
+update-alternatives 2017-12-09 19:52:02: link group desktop-theme updated to point to /usr/share/desktop-base/softwaves-theme
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/lines-theme 40
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/joy-theme 30
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/joy-inksplat-theme 30
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/spacefun-theme 30
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/active-theme/wallpaper/contents/images/1920x1080.svg 70
+update-alternatives 2017-12-09 19:52:02: link group desktop-background updated to point to /usr/share/desktop-base/active-theme/wallpaper/contents/images/1920x1080.svg
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1024x768.svg 65
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x720.svg 65
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x800.svg 65
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x1024.svg 65
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1600x1200.svg 65
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1920x1080.svg 65
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1920x1200.svg 65
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/2560x1440.svg 65
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/2560x1600.svg 65
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1280x1024.svg 60
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1600x1200.svg 60
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1920x1080.svg 60
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1920x1200.svg 60
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/2560x1080.svg 60
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1280x720.svg 50
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1280x1024.svg 50
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1600x1200.svg 50
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1920x1080.svg 50
+update-alternatives 2017-12-09 19:52:02: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1920x1200.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1280x720.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1280x1024.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1600x1200.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1920x1080.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1920x1200.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1280x720.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1280x1024.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1920x1080.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1920x1200.svg 50
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/active-theme/wallpaper/gnome-background.xml 50
+update-alternatives 2017-12-09 19:52:03: link group desktop-background.xml updated to point to /usr/share/desktop-base/active-theme/wallpaper/gnome-background.xml
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/softwaves-theme/wallpaper/gnome-background.xml 40
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/lines-theme/wallpaper/gnome-background.xml 30
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/joy-theme/wallpaper/gnome-background.xml 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/joy-inksplat-theme/wallpaper/gnome-background.xml 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/spacefun-theme/wallpaper/gnome-background.xml 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/active-theme/lockscreen/gnome-background.xml 50
+update-alternatives 2017-12-09 19:52:03: link group desktop-lockscreen.xml updated to point to /usr/share/desktop-base/active-theme/lockscreen/gnome-background.xml
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/softwaves-theme/lockscreen/gnome-background.xml 40
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/lines-theme/lockscreen/gnome-background.xml 30
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/joy-theme/lockscreen/gnome-background.xml 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/spacefun-theme/lockscreen/gnome-background.xml 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/active-theme/wallpaper 50
+update-alternatives 2017-12-09 19:52:03: link group desktop-plasma5-wallpaper updated to point to /usr/share/desktop-base/active-theme/wallpaper
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/softwaves-theme/wallpaper 40
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/lines-theme/wallpaper 30
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/joy-theme/wallpaper 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/joy-inksplat-theme/wallpaper 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/spacefun-theme/wallpaper 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/active-theme/login/background.svg 50
+update-alternatives 2017-12-09 19:52:03: link group desktop-login-background updated to point to /usr/share/desktop-base/active-theme/login/background.svg
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/softwaves-theme/login/background.svg 40
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/lines-theme/login/background.svg 30
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/lines-theme/login/background-nologo.svg 30
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/joy-theme/login/background.svg 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/spacefun-theme/login/background.svg 20
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/active-theme/grub/grub-4x3.png 50 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/active-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: link group desktop-grub updated to point to /usr/share/desktop-base/active-theme/grub/grub-4x3.png
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/active-theme/grub/grub-16x9.png 45 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/active-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/softwaves-theme/grub/grub-4x3.png 40 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/softwaves-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/softwaves-theme/grub/grub-16x9.png 40 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/softwaves-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/lines-theme/grub/grub-4x3.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/lines-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/lines-theme/grub/grub-16x9.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/lines-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/joy-theme/grub/grub-4x3.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/joy-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/joy-theme/grub/grub-16x9.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/joy-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/spacefun-theme/grub/grub-4x3.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/spacefun-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/spacefun-theme/grub/grub-16x9.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/spacefun-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 19:52:03: run with --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/Adwaita/cursor.theme 90
+update-alternatives 2017-12-09 19:52:03: link group x-cursor-theme updated to point to /usr/share/icons/Adwaita/cursor.theme
+update-alternatives 2017-12-09 19:52:04: run with --install /usr/share/icons/gnome/scalable/places/start-here.svg start-here.svg /usr/share/icons/gnome/scalable/places/debian-swirl.svg 30 --slave /usr/share/icons/gnome/16x16/places/start-here.png start-here-16.png /usr/share/icons/gnome/16x16/places/debian-swirl.png --slave /usr/share/icons/gnome/22x22/places/start-here.png start-here-22.png /usr/share/icons/gnome/22x22/places/debian-swirl.png --slave /usr/share/icons/gnome/24x24/places/start-here.png start-here-24.png /usr/share/icons/gnome/24x24/places/debian-swirl.png --slave /usr/share/icons/gnome/256x256/places/start-here.png start-here-256.png /usr/share/icons/gnome/256x256/places/debian-swirl.png --slave /usr/share/icons/gnome/32x32/places/start-here.png start-here-32.png /usr/share/icons/gnome/32x32/places/debian-swirl.png --slave /usr/share/icons/gnome/48x48/places/start-here.png start-here-48.png /usr/share/icons/gnome/48x48/places/debian-swirl.png
+update-alternatives 2017-12-09 19:52:04: link group start-here.svg updated to point to /usr/share/icons/gnome/scalable/places/debian-swirl.svg
+update-alternatives 2017-12-09 19:52:04: run with --install /usr/share/icons/gnome/scalable/places/start-here.svg start-here.svg /usr/share/icons/gnome/scalable/places/gnome-foot.svg 20 --slave /usr/share/icons/gnome/16x16/places/start-here.png start-here-16.png /usr/share/icons/gnome/16x16/places/gnome-foot.png --slave /usr/share/icons/gnome/22x22/places/start-here.png start-here-22.png /usr/share/icons/gnome/22x22/places/gnome-foot.png --slave /usr/share/icons/gnome/24x24/places/start-here.png start-here-24.png /usr/share/icons/gnome/24x24/places/gnome-foot.png --slave /usr/share/icons/gnome/256x256/places/start-here.png start-here-256.png /usr/share/icons/gnome/256x256/places/gnome-foot.png --slave /usr/share/icons/gnome/32x32/places/start-here.png start-here-32.png /usr/share/icons/gnome/32x32/places/gnome-foot.png --slave /usr/share/icons/gnome/48x48/places/start-here.png start-here-48.png /usr/share/icons/gnome/48x48/places/gnome-foot.png
+update-alternatives 2017-12-09 19:52:04: run with --install /usr/share/xgreeters/lightdm-greeter.desktop lightdm-greeter /usr/share/xgreeters/lightdm-gtk-greeter.desktop 60
+update-alternatives 2017-12-09 19:52:04: link group lightdm-greeter updated to point to /usr/share/xgreeters/lightdm-gtk-greeter.desktop
+update-alternatives 2017-12-09 19:52:05: run with --install /usr/bin/x-window-manager x-window-manager /usr/bin/xfwm4 60 --slave /usr/share/man/man1/x-window-manager.1.gz x-window-manager.1.gz /usr/share/man/man1/xfwm4.1.gz
+update-alternatives 2017-12-09 19:52:05: link group x-window-manager updated to point to /usr/bin/xfwm4
+update-alternatives 2017-12-09 19:52:06: run with --install /usr/bin/x-session-manager x-session-manager /usr/bin/startxfce4 50 --slave /usr/share/man/man1/x-session-manager.1.gz x-session-manager.1.gz /usr/share/man/man1/startxfce4.1.gz
+update-alternatives 2017-12-09 19:52:06: link group x-session-manager updated to point to /usr/bin/startxfce4
+update-alternatives 2017-12-09 19:52:06: run with --install /usr/bin/x-session-manager x-session-manager /usr/bin/xfce4-session 40 --slave /usr/share/man/man1/x-session-manager.1.gz x-session-manager.1.gz /usr/share/man/man1/xfce4-session.1.gz
+update-alternatives 2017-12-09 19:56:20: run with --install /usr/bin/editor editor /bin/nano 40 --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/nano.1.gz
+update-alternatives 2017-12-09 19:56:20: link group editor updated to point to /bin/nano
+update-alternatives 2017-12-09 19:56:20: run with --install /usr/bin/pico pico /bin/nano 10 --slave /usr/share/man/man1/pico.1.gz pico.1.gz /usr/share/man/man1/nano.1.gz
+update-alternatives 2017-12-09 19:56:20: link group pico updated to point to /bin/nano
+update-alternatives 2017-12-09 20:04:34: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/xfce4-terminal.wrapper 40 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/xfce4-terminal.1.gz
+update-alternatives 2017-12-09 20:04:34: link group x-terminal-emulator updated to point to /usr/bin/xfce4-terminal.wrapper
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1024x768.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x720.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x800.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x1024.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1600x1200.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1920x1080.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1920x1200.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/2560x1440.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/2560x1600.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1280x1024.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1600x1200.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1920x1080.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1920x1200.svg
+update-alternatives 2017-12-09 20:28:36: run with --remove desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/2560x1080.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1280x720.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1280x1024.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1600x1200.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1920x1080.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1920x1200.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1280x720.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1280x1024.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1600x1200.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1920x1080.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1920x1200.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1280x720.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1280x1024.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1920x1080.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1920x1200.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background /usr/share/desktop-base/active-theme/wallpaper/contents/images/1920x1080.svg
+update-alternatives 2017-12-09 20:28:37: link group desktop-background fully removed
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background.xml /usr/share/desktop-base/softwaves-theme/wallpaper/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background.xml /usr/share/desktop-base/lines-theme/wallpaper/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background.xml /usr/share/desktop-base/joy-theme/wallpaper/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background.xml /usr/share/desktop-base/joy-inksplat-theme/wallpaper/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background.xml /usr/share/desktop-base/spacefun-theme/wallpaper/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-background.xml /usr/share/desktop-base/active-theme/wallpaper/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: link group desktop-background.xml fully removed
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-lockscreen.xml /usr/share/desktop-base/softwaves-theme/lockscreen/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-lockscreen.xml /usr/share/desktop-base/lines-theme/lockscreen/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-lockscreen.xml /usr/share/desktop-base/joy-theme/lockscreen/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-lockscreen.xml /usr/share/desktop-base/spacefun-theme/lockscreen/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-lockscreen.xml /usr/share/desktop-base/active-theme/lockscreen/gnome-background.xml
+update-alternatives 2017-12-09 20:28:37: link group desktop-lockscreen.xml fully removed
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-plasma5-wallpaper /usr/share/desktop-base/softwaves-theme/wallpaper
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-plasma5-wallpaper /usr/share/desktop-base/lines-theme/wallpaper
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-plasma5-wallpaper /usr/share/desktop-base/joy-theme/wallpaper
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-plasma5-wallpaper /usr/share/desktop-base/joy-inksplat-theme/wallpaper
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-plasma5-wallpaper /usr/share/desktop-base/spacefun-theme/wallpaper
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-plasma5-wallpaper /usr/share/desktop-base/active-theme/wallpaper
+update-alternatives 2017-12-09 20:28:37: link group desktop-plasma5-wallpaper fully removed
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-login-background /usr/share/desktop-base/softwaves-theme/login/background.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-login-background /usr/share/desktop-base/lines-theme/login/background.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-login-background /usr/share/desktop-base/lines-theme/login/background-nologo.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-login-background /usr/share/desktop-base/joy-theme/login/background.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-login-background /usr/share/desktop-base/spacefun-theme/login/background.svg
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-login-background /usr/share/desktop-base/active-theme/login/background.svg
+update-alternatives 2017-12-09 20:28:37: link group desktop-login-background fully removed
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/softwaves-theme/grub/grub-4x3.png
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/softwaves-theme/grub/grub-16x9.png
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/lines-theme/grub/grub-4x3.png
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/lines-theme/grub/grub-16x9.png
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/joy-theme/grub/grub-4x3.png
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/joy-theme/grub/grub-16x9.png
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/spacefun-theme/grub/grub-4x3.png
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/spacefun-theme/grub/grub-16x9.png
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/active-theme/grub/grub-16x9.png
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-grub /usr/share/desktop-base/active-theme/grub/grub-4x3.png
+update-alternatives 2017-12-09 20:28:37: link group desktop-grub fully removed
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-theme /usr/share/desktop-base/lines-theme
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-theme /usr/share/desktop-base/joy-theme
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-theme /usr/share/desktop-base/joy-inksplat-theme
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-theme /usr/share/desktop-base/spacefun-theme
+update-alternatives 2017-12-09 20:28:37: run with --remove desktop-theme /usr/share/desktop-base/softwaves-theme
+update-alternatives 2017-12-09 20:28:37: link group desktop-theme fully removed
+update-alternatives 2017-12-09 20:28:41: run with --remove x-session-manager /usr/bin/xfce4-session
+update-alternatives 2017-12-09 20:28:41: run with --remove x-session-manager /usr/bin/startxfce4
+update-alternatives 2017-12-09 20:28:41: link group x-session-manager fully removed
+update-alternatives 2017-12-09 20:28:43: run with --remove lightdm-greeter /usr/share/xgreeters/lightdm-gtk-greeter.desktop
+update-alternatives 2017-12-09 20:28:43: link group lightdm-greeter fully removed
+update-alternatives 2017-12-09 20:28:46: run with --remove x-terminal-emulator /usr/bin/koi8rxterm
+update-alternatives 2017-12-09 20:28:46: run with --remove x-terminal-emulator /usr/bin/uxterm
+update-alternatives 2017-12-09 20:28:46: run with --remove x-terminal-emulator /usr/bin/xterm
+update-alternatives 2017-12-09 20:28:46: run with --remove x-terminal-emulator /usr/bin/lxterm
+update-alternatives 2017-12-09 20:28:48: run with --remove x-window-manager /usr/bin/xfwm4
+update-alternatives 2017-12-09 20:28:48: link group x-window-manager fully removed
+update-alternatives 2017-12-09 20:30:22: run with --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/gnome-terminal.wrapper 40 --slave /usr/share/man/man1/x-terminal-emulator.1.gz x-terminal-emulator.1.gz /usr/share/man/man1/gnome-terminal.1.gz
+update-alternatives 2017-12-09 20:31:47: run with --remove x-terminal-emulator /usr/bin/gnome-terminal.wrapper
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/softwaves-theme 50
+update-alternatives 2017-12-09 20:36:30: link group desktop-theme updated to point to /usr/share/desktop-base/softwaves-theme
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/lines-theme 40
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/joy-theme 30
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/joy-inksplat-theme 30
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/spacefun-theme 30
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/active-theme/wallpaper/contents/images/1920x1080.svg 70
+update-alternatives 2017-12-09 20:36:30: link group desktop-background updated to point to /usr/share/desktop-base/active-theme/wallpaper/contents/images/1920x1080.svg
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1024x768.svg 65
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x720.svg 65
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x800.svg 65
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1280x1024.svg 65
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1600x1200.svg 65
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1920x1080.svg 65
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/1920x1200.svg 65
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/2560x1440.svg 65
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/softwaves-theme/wallpaper/contents/images/2560x1600.svg 65
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1280x1024.svg 60
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1600x1200.svg 60
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1920x1080.svg 60
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/1920x1200.svg 60
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/lines-theme/wallpaper/contents/images/2560x1080.svg 60
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1280x720.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1280x1024.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1600x1200.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1920x1080.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-theme/wallpaper/contents/images/1920x1200.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1280x720.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1280x1024.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1600x1200.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1920x1080.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/joy-inksplat-theme/wallpaper/contents/images/1920x1200.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1280x720.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1280x1024.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1920x1080.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/desktop-base/spacefun-theme/wallpaper/contents/images/1920x1200.svg 50
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/active-theme/wallpaper/gnome-background.xml 50
+update-alternatives 2017-12-09 20:36:30: link group desktop-background.xml updated to point to /usr/share/desktop-base/active-theme/wallpaper/gnome-background.xml
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/softwaves-theme/wallpaper/gnome-background.xml 40
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/lines-theme/wallpaper/gnome-background.xml 30
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/joy-theme/wallpaper/gnome-background.xml 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/joy-inksplat-theme/wallpaper/gnome-background.xml 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/spacefun-theme/wallpaper/gnome-background.xml 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/active-theme/lockscreen/gnome-background.xml 50
+update-alternatives 2017-12-09 20:36:30: link group desktop-lockscreen.xml updated to point to /usr/share/desktop-base/active-theme/lockscreen/gnome-background.xml
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/softwaves-theme/lockscreen/gnome-background.xml 40
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/lines-theme/lockscreen/gnome-background.xml 30
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/joy-theme/lockscreen/gnome-background.xml 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/spacefun-theme/lockscreen/gnome-background.xml 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/active-theme/wallpaper 50
+update-alternatives 2017-12-09 20:36:30: link group desktop-plasma5-wallpaper updated to point to /usr/share/desktop-base/active-theme/wallpaper
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/softwaves-theme/wallpaper 40
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/lines-theme/wallpaper 30
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/joy-theme/wallpaper 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/joy-inksplat-theme/wallpaper 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/spacefun-theme/wallpaper 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/active-theme/login/background.svg 50
+update-alternatives 2017-12-09 20:36:30: link group desktop-login-background updated to point to /usr/share/desktop-base/active-theme/login/background.svg
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/softwaves-theme/login/background.svg 40
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/lines-theme/login/background.svg 30
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/lines-theme/login/background-nologo.svg 30
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/joy-theme/login/background.svg 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/spacefun-theme/login/background.svg 20
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/active-theme/grub/grub-4x3.png 50 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/active-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:30: link group desktop-grub updated to point to /usr/share/desktop-base/active-theme/grub/grub-4x3.png
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/active-theme/grub/grub-16x9.png 45 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/active-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/softwaves-theme/grub/grub-4x3.png 40 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/softwaves-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/softwaves-theme/grub/grub-16x9.png 40 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/softwaves-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/lines-theme/grub/grub-4x3.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/lines-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/lines-theme/grub/grub-16x9.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/lines-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/joy-theme/grub/grub-4x3.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/joy-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/joy-theme/grub/grub-16x9.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/joy-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/spacefun-theme/grub/grub-4x3.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/spacefun-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:30: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/desktop-base/spacefun-theme/grub/grub-16x9.png 30 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/desktop-base/spacefun-theme/grub/grub_background.sh
+update-alternatives 2017-12-09 20:36:35: run with --install /usr/bin/x-window-manager x-window-manager /usr/bin/xfwm4 60 --slave /usr/share/man/man1/x-window-manager.1.gz x-window-manager.1.gz /usr/share/man/man1/xfwm4.1.gz
+update-alternatives 2017-12-09 20:36:35: link group x-window-manager updated to point to /usr/bin/xfwm4
+update-alternatives 2017-12-09 20:36:37: run with --install /usr/share/xgreeters/lightdm-greeter.desktop lightdm-greeter /usr/share/xgreeters/lightdm-gtk-greeter.desktop 60
+update-alternatives 2017-12-09 20:36:37: link group lightdm-greeter updated to point to /usr/share/xgreeters/lightdm-gtk-greeter.desktop
+update-alternatives 2017-12-09 20:36:37: run with --install /usr/bin/x-session-manager x-session-manager /usr/bin/startxfce4 50 --slave /usr/share/man/man1/x-session-manager.1.gz x-session-manager.1.gz /usr/share/man/man1/startxfce4.1.gz
+update-alternatives 2017-12-09 20:36:37: link group x-session-manager updated to point to /usr/bin/startxfce4
+update-alternatives 2017-12-09 20:36:37: run with --install /usr/bin/x-session-manager x-session-manager /usr/bin/xfce4-session 40 --slave /usr/share/man/man1/x-session-manager.1.gz x-session-manager.1.gz /usr/share/man/man1/xfce4-session.1.gz
